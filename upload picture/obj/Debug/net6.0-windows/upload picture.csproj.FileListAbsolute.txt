@@ -1,0 +1,17 @@
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\bin\Debug\net6.0-windows\upload picture.exe
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\bin\Debug\net6.0-windows\upload picture.deps.json
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\bin\Debug\net6.0-windows\upload picture.runtimeconfig.json
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\bin\Debug\net6.0-windows\upload picture.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\bin\Debug\net6.0-windows\upload picture.pdb
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload_picture.Form1.resources
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.AssemblyInfo.cs
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\refint\upload picture.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.pdb
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\upload picture.genruntimeconfig.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\upload picture\upload picture\obj\Debug\net6.0-windows\ref\upload picture.dll
