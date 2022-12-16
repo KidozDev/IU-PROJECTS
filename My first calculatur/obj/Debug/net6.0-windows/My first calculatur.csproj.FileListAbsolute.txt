@@ -1,0 +1,18 @@
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\bin\Debug\net6.0-windows\My first calculatur.exe
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\bin\Debug\net6.0-windows\My first calculatur.deps.json
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\bin\Debug\net6.0-windows\My first calculatur.runtimeconfig.json
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\bin\Debug\net6.0-windows\My first calculatur.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\bin\Debug\net6.0-windows\My first calculatur.pdb
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My_first_calculatur.Form1.resources
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.AssemblyInfo.cs
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\refint\My first calculatur.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.pdb
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My first calculatur.genruntimeconfig.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\ref\My first calculatur.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\My first calculatur\My first calculatur\obj\Debug\net6.0-windows\My_first_calculatur.Properties.Resources.resources
