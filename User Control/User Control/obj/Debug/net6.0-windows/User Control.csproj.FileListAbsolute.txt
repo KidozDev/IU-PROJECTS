@@ -1,0 +1,8 @@
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User Control.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User_Control.Form1.resources
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User_Control.usState.resources
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User Control.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User Control.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User Control.AssemblyInfo.cs
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\User Control\User Control\obj\Debug\net6.0-windows\User Control.csproj.CoreCompileInputs.cache
