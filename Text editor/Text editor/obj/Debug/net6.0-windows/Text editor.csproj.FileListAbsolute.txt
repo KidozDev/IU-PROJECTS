@@ -1,0 +1,17 @@
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\bin\Debug\net6.0-windows\Text editor.exe
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\bin\Debug\net6.0-windows\Text editor.deps.json
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\bin\Debug\net6.0-windows\Text editor.runtimeconfig.json
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\bin\Debug\net6.0-windows\Text editor.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\bin\Debug\net6.0-windows\Text editor.pdb
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text_editor.Form1.resources
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.AssemblyInfo.cs
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\refint\Text editor.dll
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.pdb
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\Text editor.genruntimeconfig.cache
+C:\Users\hp\OneDrive\all projects at IU\برمجة مرئية\Text editor\Text editor\obj\Debug\net6.0-windows\ref\Text editor.dll
